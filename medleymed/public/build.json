@@ -1,0 +1,16 @@
+{
+    "css/medleymed.min.css": [
+        "public/css/bdtheme.css",
+        "public/css/skin-blue.css",
+        "public/css/custom.css",
+        "public/css/temp.css"
+    ],
+    "js/medleymed.min.js": [
+        "public/js/bdtheme.js",
+        "public/js/custom.js"
+    ],
+    "js/medleymed-template.min.js": [
+        "public/js/template/main-sidebar.html"
+    ]
+    
+}

@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include medleymed *.css
+recursive-include medleymed *.csv
+recursive-include medleymed *.html
+recursive-include medleymed *.ico
+recursive-include medleymed *.js
+recursive-include medleymed *.json
+recursive-include medleymed *.md
+recursive-include medleymed *.png
+recursive-include medleymed *.py
+recursive-include medleymed *.svg
+recursive-include medleymed *.txt
+recursive-exclude medleymed *.pyc
